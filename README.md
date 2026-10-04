@@ -45,3 +45,6 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Desenvolvido por
+Ericlys
